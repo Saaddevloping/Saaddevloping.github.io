@@ -33,4 +33,4 @@ ___
 
 ## links 
 
-(zamiislam787@gmail.com)
+zamiislam787@gmail.com
