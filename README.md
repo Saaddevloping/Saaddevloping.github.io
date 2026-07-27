@@ -3,3 +3,11 @@
 ## our payment method very simple 
 ## So why lated join our talegram group
 ## If any occarence you may call on whats,app
+
+
+## Horizontal rules 
+
+___
+
+## Emphasis
+** Our payment system is Nagad,Bkas,Roket 
